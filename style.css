@@ -83,6 +83,9 @@
       font-size: 1.5em;
       font-weight: bold;
   }
-  .heading{
+  /* .heading{
+      color:white;
+  } */
+  label{
       color:white;
   }
